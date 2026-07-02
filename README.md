@@ -16,4 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fquintino&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=fquintino&icon=0&color=007ec6)](https://visitcount.itsvg.in)
