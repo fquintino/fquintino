@@ -13,9 +13,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fquintino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&id=1&theme=tokyonight" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&id=2&theme=tokyonight" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&id=3&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&id=1&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&id=2&theme=tokyonight"/>
 </p>
 
 ---
